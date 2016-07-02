@@ -4,7 +4,7 @@ body {
 }
 
 .bg{
-        background-image: url(Staff_Paper.png);
+    background-image: url(Staff_Paper.png);
     background-size: 15.625rem;
     background-position: center
 }
@@ -23,7 +23,7 @@ header h1 {
     font-weight: 700;
     margin: 0;
     position:relative;
-    background-color: white;
+    padding:10px;
     z-index=-1;
 }
 

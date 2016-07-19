@@ -5,8 +5,8 @@ body {
 
 .bg{
     background-image: url(Staff_Paper.png);
-    background-size: 35.625em;
-    background-position: center;
+    background-repeat: repeat-x;
+    background-position: top;
 }
 
 header {
@@ -113,7 +113,7 @@ header h1 {
       height: 100vh;
       visibility: visible;
     }
-    
+        
       .label-toggle  {
       background: linear-gradient(to bottom, black 0%, black 20%, transparent 20%, transparent 40%, black 40%, black 60%, transparent 60%, transparent 80%, black 80%, black 100%); 
       cursor: pointer;
